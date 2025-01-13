@@ -1,12 +1,3 @@
-# ECOR 1042 Lab 6 - Template text UI
-# Update "" with your name (e.g., Cristina Ruiz Martin)
-__author__ = "Agi Louis"
-
-# Update "" with your student number (e.g., 100100100)
-__student_number__ = "101294719"
-
-# Update "" with your team (e.g. T-102, use the notation provided in the example)
-__team__ = "T - 113"
 
 #==========================================#
 # Place your script for your text_UI after this line
