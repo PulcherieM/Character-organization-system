@@ -1,15 +1,4 @@
-# ECOR 1042 Lab 5 - Individual submission for sort_characters_intelligence_selection function
 
-# Remember to include docstring and type annotations for your functions
-
-# Update "" with your name (e.g., Rami Sabouni)
-__author__ = "Pulcherie Mbaye"
-
-# Update "" with your student number (e.g., 100100100)
-__student_number__ = "101302394"
-
-# Update "" with your team (e.g. T-102, use the notation provided in the example)
-__team__ = "T-113"
 
 #======= ===================================#
 # Place your sort_characters_intelligence_selection function after this line
