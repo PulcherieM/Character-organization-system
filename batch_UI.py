@@ -1,13 +1,3 @@
-# ECOR 1042 Lab 6 - Template Individual submission for batch_UI
-
-# Update "" with your name (e.g., Cristina Ruiz Martin)
-__author__ = "Carmen Pan"
-
-# Update "" with your student number (e.g., 100100100)
-__student_number__ = "101293883"
-
-# Update "" with your team (e.g. T-102, use the notation provided in the example)
-__team__ = "T113"
 
 #==========================================#
 # Place your script for your batch_UI after this line
