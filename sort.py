@@ -1,11 +1,3 @@
-# ECOR 1042 Lab 5 - Team submission
-# Remember to include docstring and type annotations for your functions
-
-# Update "" to list all students contributing to the team work
-__author__ = "Carmen Pan, Alex Rusu, Pulcherie Mbaye, Agi Louis"
-
-# Update "" with your team (e.g. T102)
-__team__ = "T113"
 
 #==========================================#
 # Place your sort_characters_agility_bubble function after this line
