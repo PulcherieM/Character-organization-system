@@ -1,12 +1,3 @@
-# ECOR 1042 Lab 3 - Team submission
-# Remember to include docstring and type annotations for your functions
-
-# Update "" to list all students contributing to the team work
-__author__ = "Carmen Pan, Alex Rusu, Pulcherie M'baye, Agi Louis"
-
-# Update "" with your team (e.g. T102)
-__team__ = "T113"
-
 
 #==========================================#
 # Place your character_occupation_list function after this line
