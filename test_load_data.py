@@ -1,18 +1,3 @@
-# ECOR 1042 Lab 4 - team submission
-
-#import check module here
-import check
-
-#import load_data module here
-import load_data
-
-# Update "" with your the name of the active members of the team
-__author__ = "Pulcherie Mbaye, Carmen pan, Alex Rusu, Agi Louis"
-
-# Update "" with your student number (e.g., 100100100)
-
-# Update "" with your team (e.g. T-102, use the notation provided in the example)
-__team__ = "T-113"
 
 #==========================================#
 
