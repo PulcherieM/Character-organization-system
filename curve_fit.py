@@ -1,17 +1,4 @@
-# ECOR 1042 Lab 6 - Template for curve_fit function
-
-# Remember to include docstring and type annotations for your functions
-
-# Update "" with your name (e.g., Cristina Ruiz Martin)
-__author__ = "Pulcherie Mbaye"
-
-# Update "" with your student number (e.g., 100100100)
-__student_number__ = "101302394"
-
-# Update "" with your team (e.g. T-102, use the notation provided in the example)
-__team__ = "T-113"
-
-#==========================================#
+=====================#
 # Place your curve_fit function after this line
 import numpy as np
 import matplotlib.pyplot as plt
